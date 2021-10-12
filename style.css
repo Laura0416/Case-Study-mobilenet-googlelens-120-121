@@ -1,0 +1,63 @@
+ol{
+    color:black;
+}
+
+#header{
+    text-align: center;
+}
+
+b{
+    color:darkseagreen;
+}
+
+.heading{
+    color: red;
+    font-size:30px;
+    font-family: 'Kanit', sans-serif;
+}
+
+#google_lens{
+    width:100px;
+    height:100px;
+}
+
+#google-lens{
+    font-size:30px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.mobilenet{
+    font-size: 30px;
+    width: 200px;
+}
+
+.thing{
+    background-color:lightcoral;
+    border-radius: 20px;
+    margin-right: 30px;
+    padding: 20px;
+    box-shadow: 5px 5px 18px navajowhite;
+}
+
+.thing img{
+    border-radius: 20px;
+    width: 400px;
+}
+
+.test-image{
+    color: white;
+    font-size: 15px;
+}
+
+.output{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.result{
+    color: white;
+    font-size: 20px;
+    text-align:center;
+}
